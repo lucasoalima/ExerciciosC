@@ -1,2 +1,1 @@
-# ExerciciosC
- Exercicios 1º bimestre da aula de algoritmos em C++
+Exercicíos de Lógica de Programação desenvolvido em C/C++
